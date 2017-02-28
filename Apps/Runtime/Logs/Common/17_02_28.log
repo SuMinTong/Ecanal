@@ -1,0 +1,72 @@
+[ 2017-02-28T18:13:33+08:00 ] ::1 /e/index.php/Apps/Admin/View/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Apps
+
+[ 2017-02-28T18:13:33+08:00 ] ::1 /e/index.php/Apps/Admin/View/css/ionicons.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Apps
+
+[ 2017-02-28T18:13:33+08:00 ] ::1 /e/index.php/Apps/Admin/View/js/jquery-ui.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Apps
+
+[ 2017-02-28T18:13:33+08:00 ] ::1 /e/index.php/Apps/Admin/View/css/AdminLTE.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载模块:Apps
+
+[ 2017-02-28T18:13:33+08:00 ] ::1 /e/index.php/Apps/Admin/View/js/AdminLTE/app.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Apps
+
+[ 2017-02-28T18:13:33+08:00 ] ::1 /e/index.php/Apps/Admin/View/js/jquery-ui.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Apps
+
+[ 2017-02-28T18:13:33+08:00 ] ::1 /e/index.php/Apps/Admin/View/js/AdminLTE/app.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Apps
+
+[ 2017-02-28T18:13:58+08:00 ] ::1 /e/index.php/Apps/Admin/View/css/ionicons.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Apps
+
+[ 2017-02-28T18:13:58+08:00 ] ::1 /e/index.php/Apps/Admin/View/js/AdminLTE/app.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Apps
+
+[ 2017-02-28T18:13:58+08:00 ] ::1 /e/index.php/Apps/Admin/View/css/AdminLTE.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Apps
+
+[ 2017-02-28T18:13:58+08:00 ] ::1 /e/index.php/Apps/Admin/View/js/jquery-ui.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Apps
+
+[ 2017-02-28T18:13:58+08:00 ] ::1 /e/index.php/Apps/Admin/View/js/AdminLTE/app.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Apps
+

@@ -191,6 +191,7 @@ abstract class Controller {
      */
     protected function ajaxReturn($data,$type='',$json_option=0) {
         if(empty($type)) $type  =   C('DEFAULT_AJAX_RETURN');
+        echo "<script>alert($type)</script>";
         switch (strtoupper($type)){
             case 'JSON' :
                 // 返回JSON数据格式到客户端 包含状态信息
@@ -208,6 +209,7 @@ abstract class Controller {
                 header('Content-Type:text/html; charset=utf-8');
                 break;      
         }
+
         exit($data);
     }
 

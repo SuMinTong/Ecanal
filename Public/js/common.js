@@ -293,11 +293,15 @@ E.msg = function(msg, options, func){
 }
 E.toJson = function(str,notLimit){
 	var json = {};
+	// json = eval("+str+");
+		// json = str;
 	try{
 		if(typeof(str )=="object"){
 			json = str;
+			console.log(json);
 		}else{
 			json = eval("("+str+")");
+			// json = eval("+str+");
 		}
 		if(!notLimit){
 			if(json.status && json.status=='-999'){
@@ -321,6 +325,7 @@ E.toJson = function(str,notLimit){
 		alert("系统发生错误:"+e.getMessage);
 		json = {};
 	}
+	// console.log(json);
 	return json;
 }
 //把wst-panel-full样式的表单设置布满屏幕高度

@@ -18,15 +18,9 @@ class ArticlesController extends Controller
     		}	
     	}
     	$article = $m->getArticle($obj);
-    	// $this->assign('articleList',$articleList);
+    	$this->assign('articleList',$articleList);//将$articleList赋值给articleList模型
     	// $article['articleContent'] = htmlspecialchars_decode($article['articleContent']);
-    	// $this->assign('carticle',$article);
-        // $this->display("default/help_center");
-        // $json_string = json_encode($article);
-		// var_dump($json_string);
-  	   // var_dump($articleList);
-  	   // echo "<hr/>";
-  	   print_r($article);  
+    	$this->assign('article',$article);//将$article赋值给article模型
   }
 
 
